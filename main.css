@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#top {
+    background: url("img/bg.jpg");
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#logo {
+
+}
